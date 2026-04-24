@@ -21,7 +21,3 @@ gameLoop = True
 while gameLoop:
     draw()
     pygame.display.update()
-gameLoop = True
-while gameLoop:
-    draw()
-    pygame.display.update()
